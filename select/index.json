@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Shhh",
+  "base_artist": "KISS OF LIFE",
+  "createdAt": "2026-03-26T18:18:36.141321Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shhh",
+      "artist": "Tevin Campbell",
+      "has_synced": false,
+      "path": "select/01_Shhh_Tevin_Campbell.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shhh",
+      "artist": "Bhad Bhabie",
+      "has_synced": true,
+      "path": "select/02_Shhh_Bhad_Bhabie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Planet Shhh",
+      "artist": "Cap'n Jazz",
+      "has_synced": false,
+      "path": "select/03_Planet_Shhh_Cap'n_Jazz.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shhh",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/04_Shhh_Prince.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Love Is the Shhh!",
+      "artist": "Somethin' for the People",
+      "has_synced": false,
+      "path": "select/05_My_Love_Is_the_Shhh!_Somethin'_for_the_People.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shhh!",
+      "artist": "A.B. Quintanilla y Los Kumbia Kings",
+      "has_synced": true,
+      "path": "select/06_Shhh!_A.B._Quintanilla_y_Los_Kumbia_Kings.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Talk Show SHHH!",
+      "artist": "Shae Jones",
+      "has_synced": false,
+      "path": "select/07_Talk_Show_SHHH!_Shae_Jones.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "That's My Shhh",
+      "artist": "Jason Derulo",
+      "has_synced": true,
+      "path": "select/08_That's_My_Shhh_Jason_Derulo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tevin Campbell-Shhh",
+      "artist": "Tevin Campbell",
+      "has_synced": true,
+      "path": "select/09_Tevin_Campbell-Shhh_Tevin_Campbell.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shhh...",
+      "artist": "The Apex Theory",
+      "has_synced": true,
+      "path": "select/10_Shhh..._The_Apex_Theory.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shhh",
+      "artist": "KISS OF LIFE",
+      "has_synced": false,
+      "path": "select/pl_01_Shhh_KISS_OF_LIFE.txt"
+    }
+  ]
+}
